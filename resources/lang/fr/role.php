@@ -1,0 +1,16 @@
+<?php return array (
+  'Role List' => 'Liste des rôles',
+  'Role' => 'Rôle',
+  'Instructor Role' => 'Rôle d\'Instructeur',
+  'Details' => 'Détails',
+  'Role has been added Successfully' => 'Le rôle a été ajouté avec succès',
+  'Role has been updated Successfully' => 'Le rôle a été mis à jour correctement',
+  'Edit Role Info' => 'Modifier les informations de rôle',
+  'Role has been deleted Successfully' => 'Le rôle a été supprimé avec succès',
+  'Permission' => 'Permission',
+  'Menu' => 'Menu',
+  'Sub-Menu' => 'Sous-Menu',
+  'assign_permission' => 'Attribuer une autorisation',
+  'role_permission' => 'Autorisation de Rôle',
+  'Student Role' => 'Rôle de l\'Étudiant',
+);

@@ -1,0 +1,15 @@
+<?php return array (
+  'Admin Course Revenue List' => 'Liste des revenus des cours d\'administration',
+  'Report' => 'Rapport',
+  'Admin Revenue' => 'Revenus d\'administration',
+  'With Discount' => 'Avec remise',
+  'Without Discount' => 'Sans remise',
+  'Start Date' => 'Date de début',
+  'End Date' => 'Date de fin',
+  'Enrolled Student' => 'Étudiant inscrit',
+  'Price' => 'Prix',
+  'Revenue' => 'Revenu',
+  'Discount' => 'Réduction',
+  'Enrolled Date' => 'Date d\'inscription',
+  'Purchase ID' => 'ID d\'achat',
+);

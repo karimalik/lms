@@ -1,0 +1,15 @@
+<?php return array (
+  'Skill & Pathway' => 'Compétence et parcours',
+  'Skill' => 'Compétence',
+  'My Skill' => 'Ma compétence',
+  'Browse Badge file' => 'Parcourir le fichier Badge',
+  'Skill List' => 'Liste des compétences',
+  'Badge' => 'Badge',
+  'Pathway' => 'Pathway',
+  'Group' => 'Groupe',
+  'Group List' => 'Liste de groupe',
+  'Group Student List' => 'Liste des étudiants du groupe',
+  'Sub Groups' => 'Sous-groupes',
+  'Assign Students' => 'Affecter des étudiants',
+  'Pathway List' => 'Pathway List',
+);

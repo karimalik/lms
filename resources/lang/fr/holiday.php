@@ -1,0 +1,15 @@
+<?php return array (
+  'Holidays of' => 'Vacances de',
+  'Days' => 'Jours',
+  'Purpose' => 'But',
+  'Date' => 'Date',
+  'Holiday Name' => 'Nom du jour férié',
+  'Select Type' => 'Sélectionner le genre',
+  'Single Day' => 'Single Day',
+  'Multiple Day' => 'Plusieurs jours',
+  'Start Date' => 'Date de début',
+  'End Date' => 'Date de fin',
+  'Year' => 'Année',
+  'Holiday Setup' => 'Configuration des vacances',
+  'Add New Year' => 'Ajouter Nouvel An',
+);

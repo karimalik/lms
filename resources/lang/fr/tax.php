@@ -1,0 +1,16 @@
+<?php return array (
+  'TAX' => 'TAXE',
+  'Tax' => 'Taxe',
+  'TAX Setting' => 'Paramètre TAXE',
+  'Percentage' => 'Pourcentage',
+  'Apply TAX' => 'Appliquer la taxe',
+  'TAX Type' => 'Type de taxe',
+  'Common Tax' => 'Impôt commun',
+  'Country Wish Tax' => 'Taxe du pays souhaité',
+  'Update tax percentage from  Country Wish Tax section' => 'Mettre à jour le pourcentage de taxe de la section Taxe du pays souhaité',
+  'Country Wish Tax List' => 'Liste de Taxe du pays souhaité',
+  'Country' => 'Pays',
+  'Tax List' => 'Liste Des Impôts',
+  'Add New Tax' => 'Ajouter une nouvelle taxe',
+  'Update Tax' => 'Actualiser la taxe',
+);
